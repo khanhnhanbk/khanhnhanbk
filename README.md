@@ -1,123 +1,42 @@
-# Nguyen Van Khanh Nhan
+# Hi, I'm Khanh Nhan 👋
 
-**Junior Backend Developer (.NET)**
+Software Developer with experience in backend systems and full-stack web development.
 
-📍 Da Nang, Vietnam
-📞 0349796850
-✉️ [nhannguyenqna2002@gmail.com](mailto:nhannguyenqna2002@gmail.com)
+I specialize in building scalable web applications using Django, ASP.NET Core, React, and Next.js.
 
-🔗 GitHub: https://github.com/khanhnhanbk
+I enjoy designing clean architectures, building REST APIs, and experimenting with modern frontend frameworks through personal projects.
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Tech Stack
 
-Junior Backend Developer with around **1 year of software development experience** using **C# and Python**.
+**Frontend**
+React • Next.js • Vue.js • Tailwind CSS • JavaScript (ES6+)
 
-Interested in building **scalable backend systems, RESTful APIs, and database-driven applications**.
+**Backend**
+Django • Django REST Framework • ASP.NET Core • REST API • JWT Authentication
 
-Familiar with backend architecture concepts such as **OOP, SOLID principles, and clean code**.
-Comfortable working in **Linux environments** and collaborating in **Agile teams** using Git and issue tracking tools.
-
----
-
-## 🧰 Tech Stack
-
-**Programming Languages**
-
-* C#
-* Python
-* JavaScript
-
-**Backend Development**
-
-* .NET / ASP.NET Core
-* Django
-* RESTful API Design
-* MVC Architecture
-* Dependency Injection
-
-**Database**
-
-* MySQL
-* Redis
-* Elasticsearch
-
-**Tools & Platforms**
-
-* Git / GitHub
-* Linux (Ubuntu)
-* Docker (Basic)
-* Jira
-
-**Software Engineering**
-
-* OOP
-* SOLID Principles
-* Clean Code
+**Database & Tools**
+PostgreSQL • SQL Server • Redis • Elasticsearch • Git • Docker (Basic)
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### AvePoint
+### 🧑‍💼 AI-Powered Employee Attendance System
+Full-stack system using Next.js + Django + AI face recognition integration  
+→ Employee management, attendance tracking, admin dashboard
 
-**Developer**
-*Mar 2025 – Present*
+### 🛒 E-Commerce Search Platform
+Django + Vue 3 + Elasticsearch + Redis  
+→ High-performance product search system
 
-* Contributed to **Active Directory migration tools** and internal system components.
-* Developed **Windows applications using C#, XAML, and MVVM architecture**.
-* Implemented features and fixed bugs in **legacy .NET systems**.
-* Collaborated with team members using **Git**.
-
----
-
-### Paradox.AI
-
-**Backend Developer (Contract)**
-*2024*
-
-* Developed **CRUD REST APIs** using **Python and Django**.
-* Designed database models and implemented persistence logic.
-* Worked in **Linux development environments (Ubuntu)**.
-* Collaborated in **Agile Scrum workflow** using **Jira and GitHub**.
+### 📚 Language Learning Platform
+ASP.NET Core + Next.js  
+→ Course, quiz, and learning progress system
 
 ---
 
-## 🚀 Projects
-
-### E-commerce Web Application
-
-Tech: **Django • Vue 3 • MySQL • Redis • Elasticsearch**
-
-* Built a full-stack **e-commerce system**.
-* Implemented REST APIs for **products, categories, and orders**.
-* Integrated **Elasticsearch** for product search.
-* Used **Celery + Redis** for background task processing.
-
----
-
-### Banking Transfer API (ASP.NET Core) *(In Progress)*
-
-Tech: **ASP.NET Core • C# • REST API**
-
-* Designing a **RESTful banking API**.
-* Implementing **account management and money transfer operations**.
-* Applying **transactional logic** to ensure balance consistency.
-* Using **Repository Pattern** and **Dependency Injection**.
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Science**
-Ho Chi Minh University of Technology
-2024
-
-GPA: **3.5 / 4.0**
-
----
-
-## 🌐 Certifications
-
-**TOEIC: 750**
+## 📫 Contact
+Email: your-email  
+GitHub: github.com/khanhnhanbk
