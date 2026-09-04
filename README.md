@@ -1,6 +1,3 @@
-Sure — here is the **raw Markdown syntax** you can copy directly into your GitHub `README.md`:
-
-```md
 # Hi, I'm Khanh Nhan 👋
 
 **Software Developer** with 2+ years of experience in backend systems and full-stack web development.
@@ -91,4 +88,3 @@ Developed web application features using **ASP.NET Core, Angular, Entity Framewo
 
 **Email:** [nhannguyenqna2002@gmail.com](mailto:nhannguyenqna2002@gmail.com)  
 **GitHub:** [github.com/khanhnhanbk](https://github.com/khanhnhanbk)
-```
